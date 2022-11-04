@@ -1,2 +1,7 @@
-console.log("hola");
-console.log("que hace");
+
+console.log("はいはい");
+console.log("チャオ");
+
+
+console.log("cambio");
+
